@@ -1,1 +1,1 @@
-﻿[assembly: InternalsVisibleTo("vpm-package.editor")]
+﻿[assembly: InternalsVisibleTo("numeira.camera-capture.editor")]

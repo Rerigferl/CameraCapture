@@ -1,5 +1,5 @@
 {
-    "name": "vpm-package.editor",
+    "name": "numeira.camera-capture.editor",
     "references": [ ],
     "includePlatforms": [
         "Editor"
